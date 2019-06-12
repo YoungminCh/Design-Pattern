@@ -1,0 +1,11 @@
+C:\Users\mintm\Desktop\CPA2\4th 2019 Summer\INFO3137 - Software Design Patterns 1\Project 1\Assi1Starter\obj\Debug\netcoreapp2.2\a1.csprojAssemblyReference.cache
+C:\Users\mintm\Desktop\CPA2\4th 2019 Summer\INFO3137 - Software Design Patterns 1\Project 1\Assi1Starter\obj\Debug\netcoreapp2.2\a1.csproj.CoreCompileInputs.cache
+C:\Users\mintm\Desktop\CPA2\4th 2019 Summer\INFO3137 - Software Design Patterns 1\Project 1\Assi1Starter\obj\Debug\netcoreapp2.2\a1.AssemblyInfoInputs.cache
+C:\Users\mintm\Desktop\CPA2\4th 2019 Summer\INFO3137 - Software Design Patterns 1\Project 1\Assi1Starter\obj\Debug\netcoreapp2.2\a1.AssemblyInfo.cs
+C:\Users\mintm\Desktop\CPA2\4th 2019 Summer\INFO3137 - Software Design Patterns 1\Project 1\Assi1Starter\bin\Debug\netcoreapp2.2\a1.deps.json
+C:\Users\mintm\Desktop\CPA2\4th 2019 Summer\INFO3137 - Software Design Patterns 1\Project 1\Assi1Starter\bin\Debug\netcoreapp2.2\a1.runtimeconfig.json
+C:\Users\mintm\Desktop\CPA2\4th 2019 Summer\INFO3137 - Software Design Patterns 1\Project 1\Assi1Starter\bin\Debug\netcoreapp2.2\a1.runtimeconfig.dev.json
+C:\Users\mintm\Desktop\CPA2\4th 2019 Summer\INFO3137 - Software Design Patterns 1\Project 1\Assi1Starter\bin\Debug\netcoreapp2.2\a1.dll
+C:\Users\mintm\Desktop\CPA2\4th 2019 Summer\INFO3137 - Software Design Patterns 1\Project 1\Assi1Starter\bin\Debug\netcoreapp2.2\a1.pdb
+C:\Users\mintm\Desktop\CPA2\4th 2019 Summer\INFO3137 - Software Design Patterns 1\Project 1\Assi1Starter\obj\Debug\netcoreapp2.2\a1.dll
+C:\Users\mintm\Desktop\CPA2\4th 2019 Summer\INFO3137 - Software Design Patterns 1\Project 1\Assi1Starter\obj\Debug\netcoreapp2.2\a1.pdb
